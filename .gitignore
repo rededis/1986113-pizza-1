@@ -10,3 +10,6 @@ Thumbs.db
 # Вспомогательные файлы
 *.log*
 node_modules/
+
+
+pre-commit-2.16.0.pyz
